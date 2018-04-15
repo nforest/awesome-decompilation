@@ -6,20 +6,20 @@ A curated list of awesome decompilation resources and projects.
 
 ## Contents
 
- * [General Overview](#General-Overview)
- * [Projects](#Projects)
- * [Compilers](#Compilers)
- * [Program Analysis](#Program-Analysis)
- * [Decompilation Pipeline](#Decompilation-Pipeline)
-   + [General](#General)
-   + [Intermediate Representation](#Intermediate-Representation)
-   + [Type Reconstruction](#Type-Reconstruction)
-   + [Control-Flow Reconstruction](#Control-Flow-Reconstruction)
-   + [C++ Decompilation](#C++-Decompilation)
- * [Advanced Topics](#Advanced-Topics)
-   + [Search-Based Decompilation](#Search-Based-Decompilation)
-   + [AI-based Decompilation](#AI-based-Decompilation)
-   + [Binary-Source Matching](#Binary-Source-Matching)
+ * [General Overview](#general-overview)
+ * [Projects](#projects)
+ * [Compilers](#compilers)
+ * [Program Analysis](#program-analysis)
+ * [Decompilation Pipeline](#decompilation-pipeline)
+   + [General](#general)
+   + [Intermediate Representation](#intermediate-representation)
+   + [Type Reconstruction](#type-reconstruction)
+   + [Control-Flow Reconstruction](#control-flow-reconstruction)
+   + [C++ Decompilation](#c++-decompilation)
+ * [Advanced Topics](#advanced-topics)
+   + [Search-Based Decompilation](#search-based-decompilation)
+   + [AI-based Decompilation](#ai-based-decompilation)
+   + [Binary-Source Matching](#binary-source-matching)
 
 -----------------------------------------
 

@@ -16,6 +16,7 @@ A curated list of awesome decompilation resources and projects.
    + [Type Reconstruction](#type-reconstruction)
    + [Control-Flow Reconstruction](#control-flow-reconstruction)
    + [C++ Decompilation](#c++-decompilation)
+   + [Identifier Recovery](#identifier-recovery) 
  * [Advanced Topics](#advanced-topics)
    + [Search-Based Decompilation](#search-based-decompilation)
    + [AI-based Decompilation](#ai-based-decompilation)
@@ -104,6 +105,10 @@ A curated list of awesome decompilation resources and projects.
 ### C++ Decompilation
 
  * [SmartDec: Approaching C++ Decompilation](https://www.computer.org/csdl/proceedings/wcre/2011/1948/00/06079860.pdf)
+
+### Identifier Recovery
+
+ * [Meaningful Variable Names for Decompiled Code: A Machine Translation Approach](https://cmustrudel.github.io/papers/icpc18decompilation.pdf)
 
 ## Advanced Topics
 

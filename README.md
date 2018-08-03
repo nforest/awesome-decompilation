@@ -30,6 +30,8 @@ A curated list of awesome decompilation resources and projects.
 
  * [Static Single Assignment for Decompilation](https://yurichev.com/mirrors/vanEmmerik_ssa.pdf)
 
+ * [A Human-Centric Approach For Binary Code Decompilation](http://hss.ulb.uni-bonn.de/2018/5004/5004.pdf)
+
 ## Projects
 
  * [Hex-Rays](https://www.hex-rays.com/products/decompiler/)

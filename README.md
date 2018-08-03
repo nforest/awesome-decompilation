@@ -41,6 +41,8 @@ A curated list of awesome decompilation resources and projects.
  * [fcd](https://github.com/zneak/fcd)
  
  * [radeco-lib](https://github.com/radare/radeco-lib)
+ 
+ * [Falcon](https://github.com/falconre/falcon)
 
  * [retdec](https://retdec.com/)
 

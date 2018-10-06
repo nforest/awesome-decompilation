@@ -48,8 +48,6 @@ A curated list of awesome decompilation resources and projects.
 
  * [snowman](https://derevenets.com/)
 
- * [boomerang](http://boomerang.sourceforge.net/)
-
  * [dcc](https://github.com/nemerle/dcc)
 
 ## Compilers

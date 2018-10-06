@@ -110,6 +110,8 @@ A curated list of awesome decompilation resources and projects.
 
  * [Meaningful Variable Names for Decompiled Code: A Machine Translation Approach](https://cmustrudel.github.io/papers/icpc18decompilation.pdf)
 
+ * [Debin: Predicting Debug Information in Stripped Binaries](https://files.sri.inf.ethz.ch/website/papers/ccs18-debin.pdf)
+
 ## Advanced Topics
 
 ### Search-Based Decompilation

@@ -44,7 +44,7 @@ A curated list of awesome decompilation resources and projects.
 
  * [retdec](https://retdec.com/)
 
- * [smartdec](https://decompilation.info/)
+ * [smartdec](https://github.com/smartdec/smartdec)
 
  * [snowman](https://derevenets.com/)
 

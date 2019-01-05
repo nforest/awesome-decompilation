@@ -60,7 +60,7 @@ A curated list of awesome decompilation resources and projects.
 
  * [Principles of Program Analysis](http://www.imm.dtu.dk/~hrni/PPA/ppa.html)
 
- * [Data Flow Analysis: Theory and Practice](https://www.crcpress.com/Data-Flow-Analysis-Theory-and-Practice/Khedker-Sanyal-Sathe/p/book/978084932880)
+ * [Data Flow Analysis: Theory and Practice](https://www.crcpress.com/Data-Flow-Analysis-Theory-and-Practice/Khedker-Sanyal-Sathe/p/book/9780849328800)
 
 ## Decompilation Pipeline
 

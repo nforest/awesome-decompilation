@@ -30,6 +30,8 @@ A curated list of awesome decompilation resources and projects.
 
  * [Static Single Assignment for Decompilation](https://yurichev.com/mirrors/vanEmmerik_ssa.pdf)
 
+* [Retargetable Analysis of Machine Code](https://dspace.vutbr.cz/bitstream/handle/11012/63279/482.pdf)
+
  * [A Human-Centric Approach For Binary Code Decompilation](http://hss.ulb.uni-bonn.de/2018/5004/5004.pdf)
 
 ## Projects

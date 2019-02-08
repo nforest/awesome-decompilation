@@ -40,7 +40,7 @@ A curated list of awesome decompilation resources and projects.
 
  * [fcd](https://github.com/zneak/fcd)
  
- * [radeco-lib](https://github.com/radare/radeco-lib)
+ * [radeco](https://github.com/radareorg/radeco)
 
  * [retdec](https://retdec.com/)
 

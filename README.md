@@ -136,5 +136,7 @@ A curated list of awesome decompilation resources and projects.
 
 * [Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection](https://arxiv.org/abs/1708.06525)
 
+* [SAFE: Self Attentive Function Embedding For Binary Similarity](https://arxiv.org/abs/1811.05296)
+
 
 

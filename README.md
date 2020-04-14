@@ -124,6 +124,8 @@ A curated list of awesome decompilation resources and projects.
 
  * [Using Recurrent Neural Networks for Decompilation](http://www.cs.unm.edu/~eschulte/data/katz-saner-2018-preprint.pdf)
 
+ * [Towards Neural Decompilation (2019)](https://arxiv.org/pdf/1905.08325.pdf)
+
 ### Binary-Source Matching
 
 * [BinPro: A Tool for Binary Source Code Provenance](https://arxiv.org/pdf/1711.00830)

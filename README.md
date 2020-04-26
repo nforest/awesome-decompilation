@@ -87,6 +87,8 @@ A curated list of awesome decompilation resources and projects.
  * [ESIL](https://radare.gitbooks.io/radare2book/content/disassembling/esil.html)
 
  * [LLIL](https://docs.binary.ninja/dev/bnil-llil/index.html)
+ 
+ * [VTIL](https://github.com/vtil-project)
 
 ### Type Reconstruction
 

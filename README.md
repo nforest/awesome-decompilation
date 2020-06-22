@@ -52,7 +52,7 @@ A curated list of awesome decompilation resources and projects.
 
  * [dcc](https://github.com/nemerle/dcc)
  
- * [Clutter](https://github.com/radareorg/cutter)
+ * [cutter](https://github.com/radareorg/cutter)
 
 ## Compilers
 

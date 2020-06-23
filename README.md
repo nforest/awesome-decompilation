@@ -51,6 +51,8 @@ A curated list of awesome decompilation resources and projects.
  * [snowman](https://derevenets.com/)
 
  * [dcc](https://github.com/nemerle/dcc)
+ 
+ * [cutter](https://github.com/radareorg/cutter)
 
 ## Compilers
 
@@ -127,6 +129,8 @@ A curated list of awesome decompilation resources and projects.
  * [Using Recurrent Neural Networks for Decompilation](http://www.cs.unm.edu/~eschulte/data/katz-saner-2018-preprint.pdf)
 
  * [Towards Neural Decompilation (2019)](https://arxiv.org/pdf/1905.08325.pdf)
+ 
+ * [A Neural-based Program Decompiler (2019)](https://www.groundai.com/project/a-neural-based-program-decompiler/1)
 
 ### Binary-Source Matching
 

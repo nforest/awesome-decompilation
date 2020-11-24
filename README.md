@@ -108,6 +108,8 @@ A curated list of awesome decompilation resources and projects.
 
  * [Helping Johnny to Analyze Malware](https://www.computer.org/csdl/proceedings/sp/2016/0824/00/0824a158.pdf)
 
+ * [A Comb for Decompiled C Code](https://dl.acm.org/doi/10.1145/3320269.3384766)
+
 ### C++ Decompilation
 
  * [SmartDec: Approaching C++ Decompilation](https://www.computer.org/csdl/proceedings/wcre/2011/1948/00/06079860.pdf)

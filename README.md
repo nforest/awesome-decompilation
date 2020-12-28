@@ -15,7 +15,7 @@ A curated list of awesome decompilation resources and projects.
    + [Intermediate Representation](#intermediate-representation)
    + [Type Reconstruction](#type-reconstruction)
    + [Control-Flow Reconstruction](#control-flow-reconstruction)
-   + [C++ Decompilation](#c++-decompilation)
+   + [C++ Decompilation](#c-decompilation)
    + [Identifier Recovery](#identifier-recovery) 
  * [Advanced Topics](#advanced-topics)
    + [Search-Based Decompilation](#search-based-decompilation)

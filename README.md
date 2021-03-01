@@ -16,10 +16,10 @@ A curated list of awesome decompilation resources and projects.
    + [Type Reconstruction](#type-reconstruction)
    + [Control-Flow Reconstruction](#control-flow-reconstruction)
    + [C++ Decompilation](#c-decompilation)
-   + [Identifier Recovery](#identifier-recovery) 
+   + [Identifier Recovery](#identifier-recovery)
+ * [AI-based Decompilation](#ai-based-decompilation)
  * [Advanced Topics](#advanced-topics)
    + [Search-Based Decompilation](#search-based-decompilation)
-   + [AI-based Decompilation](#ai-based-decompilation)
    + [Binary-Source Matching](#binary-source-matching)
 
 -----------------------------------------
@@ -50,21 +50,13 @@ A curated list of awesome decompilation resources and projects.
 
  * [Hex-Rays](https://www.hex-rays.com/products/decompiler/)
 
- * [JEB](https://www.pnfsoftware.com/)
+ * [Ghidra](https://github.com/NationalSecurityAgency/ghidra/tree/master/Ghidra/Features/Decompiler)
 
- * [fcd](https://github.com/zneak/fcd)
- 
- * [radeco](https://github.com/radareorg/radeco)
+ * [JEB](https://www.pnfsoftware.com/)
 
  * [retdec](https://retdec.com/)
 
- * [smartdec](https://github.com/smartdec/smartdec)
-
- * [snowman](https://derevenets.com/)
-
- * [dcc](https://github.com/nemerle/dcc)
- 
- * [cutter](https://github.com/radareorg/cutter)
+ * [rev.ng-c](https://rev.ng/revngc-features.html)
 
 ## Decompilation Pipeline
 
@@ -120,33 +112,32 @@ A curated list of awesome decompilation resources and projects.
 
  * [Debin: Predicting Debug Information in Stripped Binaries](https://files.sri.inf.ethz.ch/website/papers/ccs18-debin.pdf)
 
+ * [DIRE: Decompiled Identifier Renaming Engine](https://github.com/CMUSTRUDEL/DIRE)
+
+## AI-based Decompilation
+
+ * [Using Recurrent Neural Networks for Decompilation](http://www.cs.unm.edu/~eschulte/data/katz-saner-2018-preprint.pdf)
+
+ * [Towards Neural Decompilation (2019)](https://arxiv.org/pdf/1905.08325.pdf)
+ 
+ * [Coda: An End-to-End Neural Program Decompiler](https://proceedings.neurips.cc/paper/2019/file/093b60fd0557804c8ba0cbf1453da22f-Paper.pdf)
+
+ * [N-Bref: a neural-based decompiler framework](https://github.com/facebookresearch/nbref)
+
 ## Advanced Topics
 
 ### Search-Based Decompilation
 
  * [Evolving Exact Decompilation](https://www.cs.unm.edu/~eschulte/data/bed.pdf)
 
-### AI-based Decompilation
-
- * [Using Recurrent Neural Networks for Decompilation](http://www.cs.unm.edu/~eschulte/data/katz-saner-2018-preprint.pdf)
-
- * [Towards Neural Decompilation (2019)](https://arxiv.org/pdf/1905.08325.pdf)
- 
- * [A Neural-based Program Decompiler (2019)](https://www.groundai.com/project/a-neural-based-program-decompiler/1)
-
 ### Binary-Source Matching
 
-* [BinPro: A Tool for Binary Source Code Provenance](https://arxiv.org/pdf/1711.00830)
+ * [BinPro: A Tool for Binary Source Code Provenance](https://arxiv.org/pdf/1711.00830)
 
-* [Statistical Similarity of Binaries](http://www.cs.technion.ac.il/~yahave/papers/pldi16.pdf)
+ * [Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection](https://arxiv.org/abs/1708.06525)
 
-* [Similarity of Binaries through re-Optimization](http://www.cs.technion.ac.il/~yanivd/pldi17/pldi17_GitZ.pdf)
+ * [CodeCMR: Cross-Modal Retrieval For Function-Level Binary Source Code Matching](https://keenlab.tencent.com/zh/whitepapers/neurips-2020-cameraready.pdf)
 
-* [Scalable Graph-based Bug Search for Firmware Images](http://www.cs.ucr.edu/~heng/pubs/genius-ccs16.pdf)
-
-* [Neural Network-based Graph Embedding for Cross-Platform Binary Code Similarity Detection](https://arxiv.org/abs/1708.06525)
-
-* [SAFE: Self Attentive Function Embedding For Binary Similarity](https://arxiv.org/abs/1811.05296)
 
 
 

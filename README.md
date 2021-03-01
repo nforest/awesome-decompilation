@@ -7,9 +7,9 @@ A curated list of awesome decompilation resources and projects.
 ## Contents
 
  * [General Overview](#general-overview)
- * [Projects](#projects)
  * [Compilers](#compilers)
  * [Program Analysis](#program-analysis)
+ * [Projects](#projects)
  * [Decompilation Pipeline](#decompilation-pipeline)
    + [General](#general)
    + [Intermediate Representation](#intermediate-representation)
@@ -30,9 +30,21 @@ A curated list of awesome decompilation resources and projects.
 
  * [Static Single Assignment for Decompilation](https://yurichev.com/mirrors/vanEmmerik_ssa.pdf)
 
-* [Retargetable Analysis of Machine Code](https://dspace.vutbr.cz/bitstream/handle/11012/63279/482.pdf)
+ * [Retargetable Analysis of Machine Code](https://dspace.vutbr.cz/bitstream/handle/11012/63279/482.pdf)
 
  * [A Human-Centric Approach For Binary Code Decompilation](http://hss.ulb.uni-bonn.de/2018/5004/5004.pdf)
+
+## Compilers
+
+ * [Compilers: Principles, Techniques, and Tools](https://www.amazon.com/dp/0321486811)
+
+ * [Advanced Compiler Design and Implementation](https://www.amazon.com/dp/1558603204)
+
+## Program Analysis
+
+ * [Principles of Program Analysis](http://www.imm.dtu.dk/~hrni/PPA/ppa.html)
+
+ * [Data Flow Analysis: Theory and Practice](https://www.crcpress.com/Data-Flow-Analysis-Theory-and-Practice/Khedker-Sanyal-Sathe/p/book/9780849328800)
 
 ## Projects
 
@@ -53,18 +65,6 @@ A curated list of awesome decompilation resources and projects.
  * [dcc](https://github.com/nemerle/dcc)
  
  * [cutter](https://github.com/radareorg/cutter)
-
-## Compilers
-
- * [Compilers: Principles, Techniques, and Tools](https://www.amazon.com/dp/0321486811)
-
- * [Advanced Compiler Design and Implementation](https://www.amazon.com/dp/1558603204)
-
-## Program Analysis
-
- * [Principles of Program Analysis](http://www.imm.dtu.dk/~hrni/PPA/ppa.html)
-
- * [Data Flow Analysis: Theory and Practice](https://www.crcpress.com/Data-Flow-Analysis-Theory-and-Practice/Khedker-Sanyal-Sathe/p/book/9780849328800)
 
 ## Decompilation Pipeline
 

@@ -58,6 +58,8 @@ A curated list of awesome decompilation resources and projects.
 
  * [rev.ng-c](https://rev.ng/revngc-features.html)
 
+ * [jsdec](https://github.com/rizinorg/jsdec)
+
 ## Decompilation Pipeline
 
 ### General

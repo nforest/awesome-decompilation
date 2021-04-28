@@ -124,6 +124,8 @@ A curated list of awesome decompilation resources and projects.
 
  * [N-Bref: a neural-based decompiler framework](https://github.com/facebookresearch/nbref)
 
+ * [Neutron: an attention-based neural decompiler](https://link.springer.com/content/pdf/10.1186/s42400-021-00070-0.pdf)
+
 ## Advanced Topics
 
 ### Search-Based Decompilation

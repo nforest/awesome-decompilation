@@ -58,6 +58,8 @@ A curated list of awesome decompilation resources and projects.
 
  * [rev.ng-c](https://rev.ng/revngc-features.html)
 
+ * [jsdec](https://github.com/rizinorg/jsdec)
+
 ## Decompilation Pipeline
 
 ### General
@@ -123,6 +125,8 @@ A curated list of awesome decompilation resources and projects.
  * [Coda: An End-to-End Neural Program Decompiler](https://proceedings.neurips.cc/paper/2019/file/093b60fd0557804c8ba0cbf1453da22f-Paper.pdf)
 
  * [N-Bref: a neural-based decompiler framework](https://github.com/facebookresearch/nbref)
+
+ * [Neutron: an attention-based neural decompiler](https://link.springer.com/content/pdf/10.1186/s42400-021-00070-0.pdf)
 
 ## Advanced Topics
 

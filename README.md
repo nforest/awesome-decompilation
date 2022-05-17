@@ -32,7 +32,7 @@ A curated list of awesome decompilation resources and projects.
 
  * [Retargetable Analysis of Machine Code](https://dspace.vutbr.cz/bitstream/handle/11012/63279/482.pdf)
 
- * [A Human-Centric Approach For Binary Code Decompilation](http://hss.ulb.uni-bonn.de/2018/5004/5004.pdf)
+ * [A Human-Centric Approach For Binary Code Decompilation](https://bonndoc.ulb.uni-bonn.de/xmlui/handle/20.500.11811/7517)
 
 ## Compilers
 

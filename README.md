@@ -128,6 +128,8 @@ A curated list of awesome decompilation resources and projects.
 
  * [Neutron: an attention-based neural decompiler](https://link.springer.com/content/pdf/10.1186/s42400-021-00070-0.pdf)
 
+ * [Beyond the C: Retargetable Decompilation using Neural Machine Translation](https://arxiv.org/abs/2212.08950)
+
 ## Advanced Topics
 
 ### Search-Based Decompilation

@@ -60,6 +60,8 @@ A curated list of awesome decompilation resources and projects.
 
  * [jsdec](https://github.com/rizinorg/jsdec)
 
+ * [decomp.me](https://decomp.me)
+
 ## Decompilation Pipeline
 
 ### General
